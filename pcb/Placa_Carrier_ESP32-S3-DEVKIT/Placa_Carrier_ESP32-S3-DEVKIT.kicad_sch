@@ -8,6 +8,8 @@
 		(title "Placa carrier ESP32-S3-DevKitC-1")
 		(date "2026-10-26")
 		(rev "A")
+		(comment 1 "Licencia: GPL")
+		(comment 2 "Autor: Prof. Ing. Daniel Márquez")
 	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x02"
