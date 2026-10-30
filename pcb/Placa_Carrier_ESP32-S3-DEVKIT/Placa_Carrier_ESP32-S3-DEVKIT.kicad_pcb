@@ -4111,7 +4111,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "65831eec-db15-491e-980f-8b6d6bba3d06")
-		(at 103.7 103.8)
+		(at 103.4 104.2)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "H2"
