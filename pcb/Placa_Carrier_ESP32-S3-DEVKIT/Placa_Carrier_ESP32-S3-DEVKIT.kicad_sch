@@ -4436,17 +4436,6 @@
 		)
 		(uuid "5871139f-f14e-4d11-9cd8-0f729c55f36b")
 	)
-	(text "Si conmuta 220 V: aislar la zona de contactos en el PCB."
-		(exclude_from_sim no)
-		(at 285.75 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "59e38487-51d6-4fb0-bb3d-bf6cc6a7dfe1")
-	)
 	(text "ESP32-S3-DevKitC-1 (zócalos hembra 1x22)"
 		(exclude_from_sim no)
 		(at 54.864 92.964 0)
@@ -4538,7 +4527,7 @@
 	)
 	(text "EXPANSIÓN (tiras hembra en paralelo con J5 / J6)"
 		(exclude_from_sim no)
-		(at 38.1 194.31 0)
+		(at 53.848 194.056 0)
 		(effects
 			(font
 				(size 2 2)
@@ -4561,7 +4550,7 @@
 	)
 	(text "- Verificar la separación entre tiras con el plano de la DevKit antes del PCB."
 		(exclude_from_sim no)
-		(at 38.1 182.88 0)
+		(at 54.864 180.594 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4583,7 +4572,7 @@
 	)
 	(text "1: COM  2: NA  3: NC"
 		(exclude_from_sim no)
-		(at 360.68 77.47 0)
+		(at 360.934 77.216 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4761,7 +4750,7 @@
 	)
 	(text "- GPIO0, 3, 45, 46: strapping. GPIO19/20: USB nativo. GPIO43/44: UART0."
 		(exclude_from_sim no)
-		(at 38.1 177.8 0)
+		(at 54.864 175.514 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5015,7 +5004,7 @@
 	)
 	(text "- LED RGB de la placa: GPIO48 (v1.0) / GPIO38 (v1.1). No usados acá."
 		(exclude_from_sim no)
-		(at 38.1 175.26 0)
+		(at 54.864 172.974 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5169,7 +5158,7 @@
 	)
 	(text "Notas DevKit:"
 		(exclude_from_sim no)
-		(at 38.1 171.45 0)
+		(at 54.864 169.164 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5225,7 +5214,7 @@
 	)
 	(text "- GPIO35-37: PSRAM octal en módulos N8R8/N16R8. AN1 en GPIO1 (ADC1)."
 		(exclude_from_sim no)
-		(at 38.1 180.34 0)
+		(at 54.864 178.054 0)
 		(effects
 			(font
 				(size 1.27 1.27)
