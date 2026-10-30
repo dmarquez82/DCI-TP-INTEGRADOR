@@ -4271,7 +4271,7 @@
 	)
 	(text "SALIDAS LED"
 		(exclude_from_sim no)
-		(at 34.29 154.94 0)
+		(at 42.926 155.194 0)
 		(effects
 			(font
 				(size 2 2)
@@ -4661,7 +4661,7 @@
 	)
 	(text "PULSADORES"
 		(exclude_from_sim no)
-		(at 97.79 154.94 0)
+		(at 108.458 154.686 0)
 		(effects
 			(font
 				(size 2 2)
