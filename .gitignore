@@ -1,0 +1,22 @@
+# Archivos temporales y locales de KiCad
+*.kicad_prl
+*-backups/
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*~
+_autosave-*
+\#auto_saved_files\#
+fp-info-cache
+~*.lck
+*.lck
+
+# Exportaciones intermedias (se suben solo las versiones finales)
+*.gbr.tmp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
