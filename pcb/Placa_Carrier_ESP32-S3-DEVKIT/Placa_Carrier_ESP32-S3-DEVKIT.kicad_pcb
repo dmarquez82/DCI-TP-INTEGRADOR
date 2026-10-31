@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "Placa carrier ESP32-S3-DevKitC-1")
+		(rev "A")
+		(comment 1 "Licencia: GPL")
+		(comment 2 "Autor: Prof. Ing. Daniel Márquez")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -15825,17 +15831,6 @@
 		(at 162.84 105.615 90)
 		(layer "F.SilkS")
 		(uuid "5c786d74-3542-40cf-a4fd-d64171b068b5")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "ANTENA: sin cobre"
-		(at 171.5 82.6 90)
-		(layer "F.SilkS")
-		(uuid "d7f83cc6-7812-4c22-8e3c-67585c743252")
 		(effects
 			(font
 				(size 1 1)
