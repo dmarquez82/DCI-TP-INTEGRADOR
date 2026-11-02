@@ -4251,7 +4251,7 @@
 		(descr "Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf")
 		(tags "Temperature and humidity module")
 		(property "Reference" "U2"
-			(at 5.95 5.94 90)
+			(at 4.4 4.34 90)
 			(layer "F.SilkS")
 			(uuid "cf0cc29b-fa25-4a5a-97ea-fb218c7f0130")
 			(effects
