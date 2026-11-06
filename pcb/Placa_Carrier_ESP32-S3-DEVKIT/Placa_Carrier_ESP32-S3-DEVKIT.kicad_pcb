@@ -1339,7 +1339,7 @@
 		(property "Reference" "J1"
 			(at 9.2 3.999999 0)
 			(layer "F.SilkS")
-			(uuid "6a58b261-716f-4e43-9ce1-bfe1a0a82cee")
+			(uuid "ba02611e-4347-4407-831a-fce9ac535318")
 			(effects
 				(font
 					(size 1 1)
@@ -1350,7 +1350,7 @@
 		(property "Value" "12V IN"
 			(at 2.54 5.66 180)
 			(layer "F.Fab")
-			(uuid "2114b52d-5d91-4615-af08-f47168a9cfa1")
+			(uuid "55bfd236-58da-4f4f-98cb-290b83e204e6")
 			(effects
 				(font
 					(size 1 1)
@@ -1362,7 +1362,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5ebf3c96-1f9a-42f7-b80e-5d2a83e8eb58")
+			(uuid "f0c6e712-3644-40be-9b09-d2e8f2278ea2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1373,7 +1373,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cdfbcb5a-68ac-422e-a83a-f2e9e7c516f4")
+			(uuid "76504cfc-62d8-49bf-afb7-300cd67ba874")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18321,6 +18321,15 @@
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "d48a4adf-7312-4361-b6bc-a5154c8b7929")
+	)
+	(via
+		(at 178.6 65.4)
+		(size 0.8)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net "GND")
+		(uuid "3751c890-ca4d-4ebb-90a7-30c5cb6c3d22")
 	)
 	(via
 		(at 209.55 69.78)
