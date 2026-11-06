@@ -3,7 +3,7 @@ Este repositorio contiene el trabajo práctico final para la asignatura de Dise�
 
 * Autor: Prof. Ing. Daniel Márquez
 * Título corto del trabajo: Placa carrier para ESP32-S3 DevKit
-* Descripción: placa base (carrier) para la placa de desarrollo ESP32-S3 DevKit de 44 pines, pensada para su uso en las cátedras de la universidad. Expande todos los pines de la DevKit en dos tiras hembra rotuladas y agrega los periféricos que se usan en las prácticas: entrada de alimentación de 12 V con regulador a 5 V (la placa funciona sin necesidad de conectar el USB), dos LEDs, dos pulsadores, una salida a relé inversor de 220 V con LED indicador, una entrada analógica de 0–10 V protegida y un transceptor CAN (MCP2562) con terminación de 120 Ω seleccionable por jumper. PCB de dos capas con componentes solo en la cara superior.
+* Descripción: placa base (carrier) para la placa de desarrollo ESP32-S3 DevKit de 44 pines, pensada para su uso en las cátedras de la universidad. Expande todos los pines de la DevKit en dos tiras hembra rotuladas y agrega los periféricos que se usan en las prácticas: entrada de alimentación de 12 V con regulador a 5 V (la placa funciona sin necesidad de conectar el USB), dos LEDs, dos pulsadores, una salida a relé inversor de 220 V con LED indicador, una entrada analógica de 0–10 V protegida, un sensor DHT11 y un transceptor CAN (MCP2562) con terminación de 120 Ω seleccionable por jumper. PCB de dos capas con componentes solo en la cara superior.
 * Cursada: OCT-NOV-DIC 2026
 
 
