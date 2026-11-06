@@ -5187,7 +5187,7 @@
 		)
 		(uuid "9d8b1386-be2a-48c1-9f5d-8e28bcad0395")
 	)
-	(text "J9: zócalo para el DHT11 (1 VCC, 2 DATA, 3 NC, 4 GND).\nR13: pull-up de DATA a 3,3 V. Leer cada 2 s o más."
+	(text "J9: zócalo para el DHT11 (1 VCC, 2 DATA, 3 NC, 4 GND).\nR13: pull-up de DATA a 3,3 V."
 		(exclude_from_sim no)
 		(at 110.49 195.326 0)
 		(effects
