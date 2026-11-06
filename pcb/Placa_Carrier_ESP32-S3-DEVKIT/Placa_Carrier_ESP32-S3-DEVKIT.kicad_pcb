@@ -17718,10 +17718,21 @@
 			)
 		)
 	)
-	(gr_text "PLACA CARRIER ESP32-S3-DevKitC-1  Rev A"
-		(at 128.8 89.4 0)
+	(gr_text "PLACA CARRIER ESP32-S3-DevKitC-1"
+		(at 125.2 89.4 0)
 		(layer "F.SilkS")
 		(uuid "ebdfc6ce-083d-4d55-b1d9-9f4ec849bed9")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "Rev A"
+		(at 149.6 89.4 0)
+		(layer "F.SilkS")
+		(uuid "78c36117-f31b-486c-ae46-ad099f551205")
 		(effects
 			(font
 				(size 1.2 1.2)
