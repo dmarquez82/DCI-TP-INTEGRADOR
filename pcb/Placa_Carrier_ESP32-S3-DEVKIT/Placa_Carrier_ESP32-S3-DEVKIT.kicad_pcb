@@ -666,7 +666,7 @@
 			(uuid "9342d21f-48d0-4de5-b971-fdebe431c717")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -870,7 +870,7 @@
 			(uuid "10213b5a-9b72-426b-a28a-7069e23d04a6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1220,7 +1220,7 @@
 			(uuid "d5d501d9-84c0-4110-bcf4-ab93f9ccdfa1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.step"
+		(model "${KIPRJMOD}/3d/SW_PUSH_6mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1804,7 +1804,7 @@
 			(uuid "594ce40d-51cc-4586-89be-88654123b34f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2043,7 +2043,7 @@
 			(uuid "aa23622c-48ad-42f4-881f-fa5bbd09c583")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/LED_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2311,7 +2311,7 @@
 			(uuid "15ba7589-e207-4d38-9326-1f0c41edb21b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.step"
+		(model "${KIPRJMOD}/3d/SOT-223.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2569,7 +2569,7 @@
 			(uuid "67a02020-ed55-494b-a7d0-867605c2a022")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/3d/PinHeader_1x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3215,7 +3215,7 @@
 			(uuid "83b89ca4-be2b-491e-a32c-d03b4c8d6686")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x22_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/3d/PinSocket_1x22_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3419,7 +3419,7 @@
 			(uuid "f07c8b13-b2ce-4588-b8ca-c220c6e6d72f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3935,7 +3935,7 @@
 			(uuid "1f095074-47a3-4181-9e5d-2d8242e9b1cb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
+		(model "${KIPRJMOD}/3d/D_SOD-123.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4139,7 +4139,7 @@
 			(uuid "2e41da37-0f12-479d-8530-94c21a370425")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4260,7 +4260,7 @@
 			(uuid "83e01354-ee37-4fe1-9ab3-f57868061c9d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5000-5004_Miniature.step"
+		(model "${KIPRJMOD}/3d/TestPoint_Loop_D2.50mm_Drill1.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4381,7 +4381,7 @@
 			(uuid "f7cb2471-59d8-4fb5-91dc-6564250ef4b5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5000-5004_Miniature.step"
+		(model "${KIPRJMOD}/3d/TestPoint_Loop_D2.50mm_Drill1.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4771,7 +4771,7 @@
 			(uuid "fd531268-262f-4f1b-95be-c9820e746cbf")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Sensor.3dshapes/Aosong_DHT11_5.5x12.0_P2.54mm.step"
+		(model "${KIPRJMOD}/3d/Aosong_DHT11_5.5x12.0_P2.54mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4892,7 +4892,7 @@
 			(uuid "0935e043-368f-4839-8545-64a906e10d7e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5000-5004_Miniature.step"
+		(model "${KIPRJMOD}/3d/TestPoint_Loop_D2.50mm_Drill1.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5168,7 +5168,7 @@
 			(uuid "529109be-91e5-4af4-91ff-a6e24223f6c9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.step"
+		(model "${KIPRJMOD}/3d/D_SMA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5478,7 +5478,7 @@
 			(uuid "20ea51d1-64f4-4126-9760-42ae86c7a813")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3d/C_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5682,7 +5682,7 @@
 			(uuid "368ca360-8477-43e8-b6cf-c7a5b050a301")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6162,7 +6162,7 @@
 			(uuid "59735350-998d-4d7a-8e1f-2fab4e9f9cec")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x22_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/3d/PinSocket_1x22_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6366,7 +6366,7 @@
 			(uuid "0f0346b5-a8d6-4725-bb8e-724a07990159")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3d/C_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6487,7 +6487,7 @@
 			(uuid "cffa8341-188d-41e7-b566-76814878e2a6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5000-5004_Miniature.step"
+		(model "${KIPRJMOD}/3d/TestPoint_Loop_D2.50mm_Drill1.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6763,7 +6763,7 @@
 			(uuid "c5afed48-a79a-4e8a-929e-b5ff9f47d6e0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.step"
+		(model "${KIPRJMOD}/3d/D_SMA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7210,7 +7210,7 @@
 			(uuid "c3e913ff-bba1-49d5-b959-da7e62d4e329")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Relay_THT.3dshapes/Relay_SPDT_SANYOU_SRD_Series_Form_C.step"
+		(model "${KIPRJMOD}/3d/Relay_SPDT_SANYOU_SRD_Series_Form_C.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7331,7 +7331,7 @@
 			(uuid "ff15a66e-1e9b-4b66-9062-dd48243be089")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5000-5004_Miniature.step"
+		(model "${KIPRJMOD}/3d/TestPoint_Loop_D2.50mm_Drill1.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7811,7 +7811,7 @@
 			(uuid "166763eb-2880-4d3f-886d-1d8c893fb458")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x22_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/3d/PinSocket_1x22_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8015,7 +8015,7 @@
 			(uuid "1c714408-c8cf-44b5-a313-0e585456a57f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8219,7 +8219,7 @@
 			(uuid "f5aa03bd-2ce0-4618-a02b-ab7f94afe0ce")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8495,7 +8495,7 @@
 			(uuid "4c818a21-9bfc-4d9c-a7f7-0b1996060402")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.step"
+		(model "${KIPRJMOD}/3d/D_SMA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8734,7 +8734,7 @@
 			(uuid "38f5e8ba-9f79-486a-a3a1-33221af46c84")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/LED_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8938,7 +8938,7 @@
 			(uuid "1bfe0eb2-828a-423d-a1eb-c8c5df2fb81d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/C_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9142,7 +9142,7 @@
 			(uuid "7a582569-6ac3-41d9-9f41-53940929d0c3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9577,7 +9577,7 @@
 			(uuid "f9c25603-ce0c-4da1-9533-682d7ae5d184")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_6.3x7.7.step"
+		(model "${KIPRJMOD}/3d/CP_Elec_6.3x7.7.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9781,7 +9781,7 @@
 			(uuid "ad830fb9-891c-481c-b34c-164977944438")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9985,7 +9985,7 @@
 			(uuid "04c2f82a-1003-4914-8e45-e5f12d9cb685")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10189,7 +10189,7 @@
 			(uuid "1d091d78-4bce-43de-a026-2440106785e4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3d/C_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10669,7 +10669,7 @@
 			(uuid "0d23a0a3-3290-4e54-9f0f-21b20d3c42ac")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x22_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/3d/PinSocket_1x22_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10979,7 +10979,7 @@
 			(uuid "9146fe84-77a8-434b-819f-4b1e3229f03b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11558,7 +11558,7 @@
 			(uuid "cd7d836b-63f4-40d9-9ed0-1e8bfd2edb3a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11835,7 +11835,7 @@
 			(uuid "ed68b671-7b14-4a3c-9af6-f8490b76ef1e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.step"
+		(model "${KIPRJMOD}/3d/D_SMA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12143,7 +12143,7 @@
 			(uuid "49694e0c-1831-4261-969b-3b126259618b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step"
+		(model "${KIPRJMOD}/3d/SOIC-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12347,7 +12347,7 @@
 			(uuid "2d0305c0-d879-4702-8a97-31ae7bdcbece")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12566,7 +12566,7 @@
 			(uuid "2fd65d6b-c0ce-4880-9874-054e6458902a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Keystone_5000-5004_Miniature.step"
+		(model "${KIPRJMOD}/3d/TestPoint_Loop_D2.50mm_Drill1.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12770,7 +12770,7 @@
 			(uuid "7824166c-f843-4dac-97f5-956269fc0b09")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
+		(model "${KIPRJMOD}/3d/C_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13120,7 +13120,7 @@
 			(uuid "db1c86dc-8ff0-4d81-bed3-d9022fad8878")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm.step"
+		(model "${KIPRJMOD}/3d/SW_PUSH_6mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13699,7 +13699,7 @@
 			(uuid "704a6f2e-c04b-47ee-bdda-d81a63bf440e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal.step"
+		(model "${KIPRJMOD}/3d/TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13983,7 +13983,7 @@
 			(uuid "60278839-a528-4e5b-b9b6-6fa842e6199f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step"
+		(model "${KIPRJMOD}/3d/SOT-23.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14187,7 +14187,7 @@
 			(uuid "1c2a0cc0-f3da-4392-80f9-b74295359d13")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14391,7 +14391,7 @@
 			(uuid "1bef203d-5ef5-4967-a2c2-361bd82b90bd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14598,7 +14598,7 @@
 			(uuid "a29f67f3-17d9-4b81-8b9c-530789b7b258")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3528-21_Kemet-B.step"
+		(model "${KIPRJMOD}/3d/CP_EIA-3528-21_Kemet-B.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16606,7 +16606,7 @@
 			(uuid "3e0a1e7a-3e2b-43dc-af29-6e97bdc92723")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.step"
+		(model "${KIPRJMOD}/3d/LED_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
