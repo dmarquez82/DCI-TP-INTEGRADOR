@@ -16630,8 +16630,8 @@
 		(uuid "d7dca71f-a93f-4614-be40-3a287a6630dc")
 	)
 	(gr_rect
-		(start 99.85 57.6)
-		(end 252.15 108.2)
+		(start 99.8 57.6)
+		(end 252.2 108.2)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -17973,7 +17973,7 @@
 			)
 		)
 	)
-	(gr_text "NOTAS DE FABRICACIÓN\nFabricante de referencia: JLCPCB (reglas para 2 capas)\nMaterial: FR-4, espesor 1,6 mm, cobre 1 oz (35 µm) en ambas caras\nTerminación superficial: HASL sin plomo\nMáscara antisoldante: verde, ambas caras. Serigrafía: blanca, solo cara superior\nComponentes: solo cara superior (SMD + THT)\nGrillas: 0,5 / 0,25 / 0,2 mm\nPista mínima: 0,2 mm. Separación mínima (default): 0,2 mm\nVía mínima: 0,6 / 0,3 mm. Borde a cobre: 0,5 mm\nZona 220 V: separación mínima 3 mm (pistas de 1,5 mm)\nDimensiones: 152,3 x 50,6 mm"
+	(gr_text "NOTAS DE FABRICACIÓN\nFabricante de referencia: JLCPCB (reglas para 2 capas)\nMaterial: FR-4, espesor 1,6 mm, cobre 1 oz (35 µm) en ambas caras\nTerminación superficial: HASL sin plomo\nMáscara antisoldante: verde, ambas caras. Serigrafía: blanca, solo cara superior\nComponentes: solo cara superior (SMD + THT)\nGrillas: 0,5 / 0,25 / 0,2 mm\nPista mínima: 0,2 mm. Separación mínima (default): 0,2 mm\nVía mínima: 0,6 / 0,3 mm. Borde a cobre: 0,5 mm\nZona 220 V: separación mínima 3 mm (pistas de 1,5 mm)\nDimensiones: 152,4 x 50,6 mm"
 		(at 99.8 128.8 0)
 		(layer "Cmts.User")
 		(uuid "91e4f71d-59b4-4850-9821-0d539200d33c")
