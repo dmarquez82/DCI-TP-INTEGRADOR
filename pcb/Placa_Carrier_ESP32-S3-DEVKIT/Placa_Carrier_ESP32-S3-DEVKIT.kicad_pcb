@@ -17973,6 +17973,94 @@
 			)
 		)
 	)
+	(gr_text "NOTAS DE FABRICACIÓN\nFabricante de referencia: JLCPCB (reglas para 2 capas)\nMaterial: FR-4, espesor 1,6 mm, cobre 1 oz (35 µm) en ambas caras\nTerminación superficial: HASL sin plomo\nMáscara antisoldante: verde, ambas caras. Serigrafía: blanca, solo cara superior\nComponentes: solo cara superior (SMD + THT)\nGrillas: 0,5 / 0,25 / 0,2 mm\nPista mínima: 0,2 mm. Separación mínima (default): 0,2 mm\nVía mínima: 0,6 / 0,3 mm. Borde a cobre: 0,5 mm\nZona 220 V: separación mínima 3 mm (pistas de 1,5 mm)\nDimensiones: 152,3 x 50,6 mm"
+		(at 99.8 128.8 0)
+		(layer "Cmts.User")
+		(uuid "91e4f71d-59b4-4850-9821-0d539200d33c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "2f71c0be-070d-4043-9d17-bedd7c28ba34")
+		(pts
+			(xy 99.8 57.6) (xy 252.2 57.6)
+		)
+		(height -2.1)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "152,4"
+			(at 176 54.35 0)
+			(layer "Dwgs.User")
+			(uuid "2f71c0be-070d-4043-9d17-bedd7c28ba34")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "eefa7368-9e00-40ac-86ee-93afcd9fcbc1")
+		(pts
+			(xy 99.8 57.6) (xy 99.8 108.2)
+		)
+		(height -2)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "50,6"
+			(at 96.65 82.9 90)
+			(layer "Dwgs.User")
+			(uuid "eefa7368-9e00-40ac-86ee-93afcd9fcbc1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
 	(segment
 		(start 228.267307 99.7)
 		(end 226.44 99.7)
